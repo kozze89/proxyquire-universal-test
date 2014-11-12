@@ -1,0 +1,21 @@
+build/
+coverage/
+analysis/
+doc/
+node_modules/
+bower_components/
+test-results.xml
+npm-debug.log
+
+*.pyc
+*.tar.gz
+*.swp
+*.swm
+*.swn
+.idea
+.sass-cache/
+
+# Mac specific files
+.DS_Store
+._.DS_Store
+.AppleDouble/
